@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/E:/workspace/demo-unit-test-volecity-library/project/"), "demo-unit-test-volecity-library-build")...
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[debug] Done updating ProjectRef(uri("file:/E:/workspace/demo-unit-test-volecity-library/project/"), "demo-unit-test-volecity-library-build")

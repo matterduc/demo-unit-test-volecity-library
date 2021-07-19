@@ -1,0 +1,11 @@
+[debug] Created transactional ClassFileManager with tempDir = E:\workspace\demo-unit-test-volecity-library\target\scala-2.12\test-classes.bak
+[debug] About to delete class files:
+[debug] 	AppTests.class
+[debug] We backup class files:
+[debug] 	AppTests.class
+[debug] Registering generated classes:
+[debug] 	AppTests.class
+[debug] 	AuthedServiceTests.class
+[debug] 	AuthedServiceTests$$typecreator1$1.class
+[debug] 	AuthedServiceTests$$typecreator2$1.class
+[debug] Removing the temporary directory used for backing up class files: E:\workspace\demo-unit-test-volecity-library\target\scala-2.12\test-classes.bak
